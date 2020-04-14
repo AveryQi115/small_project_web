@@ -1,0 +1,2 @@
+# ignore instance user data
+*.sqlite
